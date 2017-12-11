@@ -1,0 +1,39 @@
+{
+    "title": "",
+    "query": "karachi",
+    "for": "daily",
+    "method": 3,
+    "prayer_method_name": "University Of Islamic Sciences, Karachi (Hanafi)",
+    "daylight": "0",
+    "timezone": "5",
+    "map_image": "http:\/\/maps.google.com\/maps\/api\/staticmap?center=24.893379,67.028061&sensor=false&zoom=13&size=300x300",
+    "sealevel": "11",
+    "today_weather": {
+        "pressure": 1017,
+        "temperature": "26"
+    },
+    "link": "http:\/\/muslimsalat.com\/karachi",
+    "qibla_direction": "267.65",
+    "latitude": "24.893379",
+    "longitude": "67.028061",
+    "address": "",
+    "city": "Karachi",
+    "state": "Sindh",
+    "postal_code": "",
+    "country": "Pakistan",
+    "country_code": "PK",
+    "items": [
+        {
+            "date_for": "2017-12-2",
+            "fajr": "5:39 am",
+            "shurooq": "6:56 am",
+            "dhuhr": "12:21 pm",
+            "asr": "4:06 pm",
+            "maghrib": "5:46 pm",
+            "isha": "7:02 pm"
+        }
+    ],
+    "status_valid": 1,
+    "status_code": 1,
+    "status_description": "Success."
+}
